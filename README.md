@@ -1,113 +1,89 @@
-# One Direction – What Makes You Beautiful
+# One Direction – ホワット・メイクス・ユー・ビューティフル
 
 > **歌詞登録ステータス：プレーン歌詞のみ**
 
 ```
-ヨーインセキョー
-ドンノー ワッフォー
-ヨー トゥーニン ヘッズ ウェン
-ユーウォーク スルー ダドオッオー
-ドン ニー メイカップ
-トゥー カヴァ ラップ
-ビイン ダウェイ
-ダチュア イズ イナッアッアー
-エヴリワン エウス インザルーム
-キャン シーイットゥ
-エヴリワン ネウス バッチュー
-ベイビー ユ ライラップ
-マワード ライ ノバーディ エウス
-ダウェイ ダッチュー フリップ
-ヨヘー
-ゲッツ ミー オーヴァウェウム
-バッウェンニュ スマイ ラッダ
-グラウン
-イッエイン ハートゥーテウ
-ユドンノー
-オッオー ユードンノー
-ヨー ビューリフォー
-イフォンリー ユーソウ
-ワライ キャンシー
-ユル アンダースタン ワイ
-ア ウォンチュー ソー
-デエスプリー
-ライナオ アム ルッキン アチュー
-エナイキャン ビリーヴ
-ユドンノー オッオー
-ユードンノー ヨー ビューリフォー
-オッオー ダッツ ワッ
-メイクシュー ビューリーフォー
-ソ ココモーン  ユーゴリッ
-ウローン
-トゥー プルーヴ
-アムライッアイプッ イナ
-ソオッオーン
-アイ ドン ノーワイ  ヨー ビイン
-シャイ
-エン トゥーン ナウェイ ウェン
-ナイ ルック イントゥー
-ヨアッアッアーイズ
-エヴリワン エウス インザルーム
-キャン シーイットゥ
-エヴリワン ネウス バッチュー
-ベイビー ユ ライラップ
-マワード ライ ノバーディ エウス
-ダウェイ ダッチュー フリップ
-ヨヘー
-ゲッツ ミー オーヴァウェウム
-バッウェンニュ スマイ ラッダ
-グラウン
-イッエイン ハートゥーテウ
-ユドンノー オッオー
-ユードンノー  ヨー
-ビューリフォー
-イフォンリー ユーソウ
-ワライ キャンシー
-ユル アンダースタン ワイ
-ア ウォンチュー ソー
-デエスプリー
-ライナオ アム ルッキン アチュー
-エナイキャン ビリーヴ
-ユドンノー オッオー
-ユードンノー  ヨー
-ビューリフォー
-オッオー ダッツ  ワッ
-メイクシュービューリーフォー
-na na na na na na naaa,
-na na ,na na na na na na
-ベイビー ユ ライラップ
-マワード ライ ノバーディ エウス
-ダウェイ ダッチュー フリップ
-ヨヘー
-ゲッツ ミー オーヴァウェウム
-バッウェンニュ スマイ ラッダ
-グラウン
-イッエイン ハートゥーテウ
-ユドンノー オッオー
-ユードンノー  ヨー
-ビューリフォー
-ベイビー ユ ライラップ
-マワード ライ ノバーディ エウス
-ダウェイ ダッチュー フリップ
-ヨヘー
-ゲッツ ミー オーヴァウェウム
-バッウェンニュ スマイ ラッダ
-グラウン
-イッエイン ハートゥーテウ
-ユドンノー オッオー
-ユードンノー  ヨー
-ビューリフォー
-イフォンリー ユーソウ
-ワライ キャンシー
-ユル アンダースタン ワイ
-ア ウォンチュー ソー
-デエスプリー
-ライナオ アム ルッキン アチュー
-エナイキャン ビリーヴ
-ユドンノー オッオー
-ユードンノー  ヨー
-ビューリフォー
-オッオー  ユードンノー  ヨー
-ビューリフォー
-オッオー ダッツ ワッ
-メイクシュー ビューリーフォー
+You're insecure,
+Don't know what for,
+You're turning heads when you
+walk through the door,
+Don't need make-up, to cover up,
+Being the way that you are
+is enough
+Everyone else in the room
+can see it,
+Everyone else but you
+Baby you light up my world like
+nobody else,
+The way that you flip your hair
+gets me overwhelmed,
+But when you smile at the ground
+it ain't hard to tell,
+You don't know, oh oh,
+You don't know you're beautiful,
+If only you saw what I can see,
+You'll understand why I want you
+so desperately,
+Right now I'm looking at you and
+I can't believe,
+You don't know, oh oh,
+You don't know you're beautiful,
+oh oh,
+That's what makes you beautiful
+So come on,
+you got it wrong,
+To prove I'm right,
+I put it in a song,
+I don't know why,
+you're being shy,
+And turn away when I look into
+your eye eye eyes
+Everyone else in the room
+can see it,
+Everyone else but you
+Baby you light up my world like
+nobody else,
+The way that you flip your hair
+gets me overwhelmed,
+But when you smile at the ground
+it ain't hard to tell,
+You don't know, oh oh,
+You don't know you're beautiful,
+If only you saw what I can see,
+You'll understand why I want you
+so desperately,
+Right now I'm looking at you and
+I can't believe,
+You don't know, oh oh,
+You don't know you're beautiful,
+oh oh,
+That's what makes you beautiful
+(Na na na na na na na na na…)
+Baby you light up my world like
+nobody else,
+The way that you flip your hair
+gets me overwhelmed,
+But when you smile at the ground
+it ain't hard to tell,
+You don't know, oh oh,
+You don't know you're beautiful
+Baby you light up my world like
+nobody else,
+The way that you flip your hair
+gets me overwhelmed,
+But when you smile at the ground
+it ain't hard to tell,
+You don't know, oh oh,
+You don't know you're beautiful,
+If only you saw what I can see,
+You'll understand why I want you
+so desperately,
+Right now I'm looking at you and
+I can't believe,
+You don't know, oh oh,
+You don't know you're beautiful,
+oh oh,
+You don't know you're beautiful,
+oh oh,
+That's what makes you beautiful
 ```
